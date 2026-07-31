@@ -74,5 +74,4 @@ The program repeatedly prompts for a YouTube URL, then shows a menu:
 The code calls `system("clear")` to clear the screen, which is a Unix/Linux command. As written, it works directly on **Linux and macOS**. On native Windows, `clear` isn't a recognized command, so the screen-clearing step will silently fail (the rest of the program still runs).
 
 ## License
-
-This is a personal/educational tool. Make sure you respect the copyright of any content you download.
+Make sure to give heavyweaponsguy a sandwich.
